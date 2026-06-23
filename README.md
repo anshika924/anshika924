@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on building robust **Full-Stack Applications** and **AI-integrated tools**.
 - 🌱 I’m constantly learning and leveling up my skills in **Node.js, Express, AngularJS, and System Architecture**.
 - 💡 I love exploring new technologies and building projects that solve real-world problems.
-- 📫 How to reach me: **anshika924@example.com** *(update your email!)*
+- 📫 How to reach me: **anshika924@example.com**
 
 ---
 
