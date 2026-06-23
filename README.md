@@ -46,6 +46,11 @@ A full-stack, offline-capable B2B issue tracking dashboard.
 - **Highlights:** Custom file-based JSON database, local Naive Bayes NLP classification, Tesseract.js OCR integration, and JWT authentication middleware.
 - **Tech:** Node.js, Express, AngularJS, Bootstrap.
 
+#### 💳 [PayPulse: AI Early Warning for SME Stress](https://github.com/vamikab16/paypulse) *(Team ByteHER)*
+An AI-powered predictive analytics platform monitoring SME supplier payment patterns to detect financial stress before defaults.
+- **Highlights:** Gradient Boosting Forecasting, Isolation Forest Anomaly Detection, Triage detection, Systemic Risk/Contagion Graph, and GDPR-ready inference audits.
+- **Tech:** Python, FastAPI, scikit-learn, Chart.js, HTML5/CSS3.
+
 ---
 
 ### 📊 GitHub Stats
